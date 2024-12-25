@@ -1,5 +1,8 @@
 streamlit
 pandas
+geopandas
+shapely
+sklearn
 numpy
 matplotlib
 contextily 
